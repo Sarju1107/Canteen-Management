@@ -1,0 +1,44 @@
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.Home_Page.resources
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.Loadingform.resources
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.LoginFrom.resources
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.Resources.resources
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.vbproj.GenerateResource.Cache
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.exe.config
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Database1.mdf
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Database1_log.ldf
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.exe
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.pdb
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.xml
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.exe
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.xml
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.pdb
+C:\sem6\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.AddEmployee.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.exe.config
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.exe
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.xml
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.pdb
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.AddEmployee.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.Home_Page.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.Loadingform.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.LoginFrom.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.Resources.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.vbproj.GenerateResource.Cache
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Database1.mdf
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Database1_log.ldf
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.exe
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.pdb
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.xml
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.frmitementry.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.frmstockentry.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.frmsalesentry.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.frmdesignationvb.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.frmadditemtypes.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.frmchangepasswoed.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.vbprojResolveAssemblyReference.cache
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.salesreport.resources
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\RdlCompile.cache
+C:\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\RdlCompile.compiled
+F:\My Project\Rushit\Canteen_Management_System\Canteen_Management_System\bin\Debug\Canteen_Management_System.exe.config
+F:\My Project\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.exe
+F:\My Project\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.xml
+F:\My Project\Rushit\Canteen_Management_System\Canteen_Management_System\obj\x86\Debug\Canteen_Management_System.pdb
